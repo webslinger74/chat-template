@@ -1,0 +1,14 @@
+html, 
+body,
+.app {
+  height: 100vh;
+  background: #eee;
+  padding:1em;
+
+}
+
+.headerComponent {
+  background-color: rgba(47, 0, 255, 0.645);
+  font-size:30px;
+  color:cornflowerblue !important;
+}
